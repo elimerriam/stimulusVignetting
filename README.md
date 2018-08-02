@@ -2,7 +2,7 @@
 
 The code in this repository contains all the MATLAB software used to analyze the data and generate the figures for the following publication: Roth, ZN, Heeger, DJ, and Merriam, EP (2018). Stimulus vignetting and orientation selectivity in human visual cortex. (DOI: 10.7554/eLife.37241).
 
-This code depends heavily on three other software packages: mrTools, mgl, and the steerable pyramid. mrTools and mgl are forked from their own repositories on gitHub. We have included a version of the steerable pyramid written by David Heeger ([DOI: 10.1109/18.119725](https://ieeexplore.ieee.org/document/119725/)), which is distinct from the steerable pyramid code distributed by Eero Simoncelli’s [LCV gitHub repository](https://github.com/LabForComputationalVision/matlabPyrTools).
+This code depends heavily on three other software packages: [mrTools](https://github.com/justingardner/mrTools), [mgl](https://github.com/justingardner/mgl), and the steerable pyramid. We have included a version of the steerable pyramid written by David Heeger ([DOI: 10.1109/18.119725](https://ieeexplore.ieee.org/document/119725/)), which is distinct from the steerable pyramid code distributed by Eero Simoncelli’s [LCV gitHub repository](https://github.com/LabForComputationalVision/matlabPyrTools).
 
 To generate the figures in the paper, download the data from OSF ([DOI: 10.17605/OSF.IO/TBJRF](https://osf.io/tbjrf/)) and run the following functions. If things don’t work out, please contact Zvi Roth  ([zvi.roth@mail.huji.ac.il](mailto:zvi.roth@mail.huji.ac.il)) and Eli Merriam ([elisha.merriam@nih.gov](mailto:elisha.merriam@nih.gov)).
 
